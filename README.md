@@ -15,4 +15,4 @@ Este projeto implementa um programa em Python que utiliza múltiplas threads par
 ## Como Executar
 1. Clone este repositório:
    ```bash
-   git clone <https://github.com/thaisld/numeros_primos.git>
+   https://github.com/thaisld/numeros_primos.git
